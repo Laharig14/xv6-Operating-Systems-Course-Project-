@@ -1,8 +1,8 @@
-# xv6 — Operating Systems Course Project
+# xv6 Operating Systems Course Project
 
 This repository contains our Operating Systems course project using the x86-based `xv6-public` operating system. Each assignment part will be documented separately as the project progresses.
 
-## Part 1 — Periodic User-Level Alarms
+## Part 1: Periodic User-Level Alarms
 
 ### 1. Project Overview
 
